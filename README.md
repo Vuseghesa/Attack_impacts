@@ -1,4 +1,4 @@
-# Attack_impacts
+# Study on Poisoning Attacks : Attack impacts
 Study on Poisoning Attacks: Application through an IoT Temperature Dataset
 
 Objective of our study: to examine the phenomenon of the data poisoning attack and its impact on the security of machine learning methods.
